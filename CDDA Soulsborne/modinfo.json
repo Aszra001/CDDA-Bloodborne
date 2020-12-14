@@ -1,0 +1,14 @@
+[
+{
+	"type": "MOD_INFO",
+    "ident": "soulsborne",
+    "name": "Borne of the Souls",
+    "authors": [ "Aszra001" ],
+    "maintainers": [ "Aszra001" ],
+    "description": "Adds Soulsborne stuff.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+}
+]
+	
+	
